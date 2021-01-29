@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\wang8\Altium Designer 19\stm32f042g6u6\F042.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.70
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

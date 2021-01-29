@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [stm32f042g6u6.PrjPCB]
+   Generated File[F042-RoundHoles.TXT]
+   Generated File[F042-SlotHoles.TXT]
+   Generated File[F042.LDP]
+   Generated File[F042.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:23:48 On 2021/1/22

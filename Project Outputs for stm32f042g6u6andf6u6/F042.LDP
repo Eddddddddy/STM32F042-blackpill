@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\wang8\Altium Designer 19\stm32f042g6u6\F042.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=f042-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=f042-slotholes.txt|DrillLayers=gtl,gbl
